@@ -1,4 +1,4 @@
-# io-byte-buffer
+# kotoba-io-byte-buffer
 
 `kotoba.io.byte-buffer/byte-buffer`
 
